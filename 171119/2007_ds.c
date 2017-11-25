@@ -3,8 +3,7 @@ void DayOfTheWeek(int x, int y){
 	int m[12]={31,28,31,30,31,30,31,31,30,31,30,31};
 	int i;
 	int sum=0;
-	char fday;
-
+	
 	if(x==1)
 		sum = y;
 	else{
