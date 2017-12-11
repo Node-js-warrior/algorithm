@@ -1,5 +1,8 @@
 # algorithm
 
+## 12.16 - 줄 세우기
+https://www.acmicpc.net/problem/2605
+
 ## 12.09 - 2309번 일곱난쟁이
 https://www.acmicpc.net/problem/2309
 
