@@ -1,5 +1,12 @@
 # algorithm
 
+
+## < 문제풀이 리스트 >
+https://www.acmicpc.net/category/detail/379
+
+## 1.7 - 바이러스
+https://www.acmicpc.net/problem/2606
+
 ## 12.16 - 줄 세우기
 https://www.acmicpc.net/problem/2605
 
