@@ -20,12 +20,12 @@ void count_virus(int **l, int pn, int num){
 		if((l[i][0]==num) && (dp_check(l[i][1])==1)){
 		    virus[count] = l[i][1];
 		    count++;
-			  count_virus(l,pn,l[i][1]);
+	            count_virus(l,pn,l[i][1]);
 	    }
 	    else if((l[i][1]==num) && (dp_check(l[i][0])==1)){
 		    virus[count] = l[i][0];
 		    count++;
-			  count_virus(l,pn,l[i][0]);
+	            count_virus(l,pn,l[i][0]);
 	    }
 	}
 }
